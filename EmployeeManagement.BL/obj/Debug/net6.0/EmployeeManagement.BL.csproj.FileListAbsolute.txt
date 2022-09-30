@@ -1,0 +1,38 @@
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.BL\bin\Debug\net6.0\EmployeeManagement.BL.deps.json
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.BL\bin\Debug\net6.0\EmployeeManagement.BL.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.BL\bin\Debug\net6.0\EmployeeManagement.BL.pdb
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.BL\obj\Debug\net6.0\EmployeeManagement.BL.csproj.AssemblyReference.cache
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.BL\obj\Debug\net6.0\EmployeeManagement.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.BL\obj\Debug\net6.0\EmployeeManagement.BL.AssemblyInfoInputs.cache
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.BL\obj\Debug\net6.0\EmployeeManagement.BL.AssemblyInfo.cs
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.BL\obj\Debug\net6.0\EmployeeManagement.BL.csproj.CoreCompileInputs.cache
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.BL\obj\Debug\net6.0\EmployeeManagement.BL.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.BL\obj\Debug\net6.0\refint\EmployeeManagement.BL.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.BL\obj\Debug\net6.0\EmployeeManagement.BL.pdb
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.BL\obj\Debug\net6.0\ref\EmployeeManagement.BL.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.BL\bin\Debug\net6.0\EmployeeManagement.DAL.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.BL\bin\Debug\net6.0\EmployeeManagement.EFCore.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.BL\bin\Debug\net6.0\EmployeeManagement.Entities.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.BL\bin\Debug\net6.0\EmployeeManagement.DAL.pdb
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.BL\bin\Debug\net6.0\EmployeeManagement.Entities.pdb
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.BL\bin\Debug\net6.0\EmployeeManagement.EFCore.pdb
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.BL\obj\Debug\net6.0\EmployeeManagement.BL.csproj.CopyComplete
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.BL\bin\Debug\net6.0\EmployeeManagement.BL.deps.json
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.BL\bin\Debug\net6.0\EmployeeManagement.BL.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.BL\bin\Debug\net6.0\EmployeeManagement.BL.pdb
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.BL\bin\Debug\net6.0\EmployeeManagement.DAL.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.BL\bin\Debug\net6.0\EmployeeManagement.EFCore.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.BL\bin\Debug\net6.0\EmployeeManagement.Entities.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.BL\bin\Debug\net6.0\EmployeeManagement.DAL.pdb
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.BL\bin\Debug\net6.0\EmployeeManagement.Entities.pdb
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.BL\bin\Debug\net6.0\EmployeeManagement.EFCore.pdb
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.BL\obj\Debug\net6.0\EmployeeManagement.BL.csproj.AssemblyReference.cache
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.BL\obj\Debug\net6.0\EmployeeManagement.BL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.BL\obj\Debug\net6.0\EmployeeManagement.BL.AssemblyInfoInputs.cache
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.BL\obj\Debug\net6.0\EmployeeManagement.BL.AssemblyInfo.cs
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.BL\obj\Debug\net6.0\EmployeeManagement.BL.csproj.CoreCompileInputs.cache
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.BL\obj\Debug\net6.0\EmployeeManagement.BL.csproj.CopyComplete
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.BL\obj\Debug\net6.0\EmployeeManagement.BL.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.BL\obj\Debug\net6.0\refint\EmployeeManagement.BL.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.BL\obj\Debug\net6.0\EmployeeManagement.BL.pdb
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.BL\obj\Debug\net6.0\ref\EmployeeManagement.BL.dll

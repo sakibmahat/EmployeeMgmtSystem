@@ -1,0 +1,109 @@
+﻿@model IEnumerable< EmployeeManagement.Entities.Employee>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Employee</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+ <button type="button" class="btn btn-info">@Html.ActionLink("home","HomeEmployee","Home","AuthenticateMVC")</button>
+        <button type="button" class="btn btn-info">@Html.ActionLink("Logout","Login","AuthenticateMVC")</button>
+<table class="table table-dark table-bordered">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.EmpId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EmpFirstName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EmpLastName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EmpGradeCode)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EmpDateOfBirth)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EmpDateOfJoining)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EmpGender)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EmpDesignation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EmpBasicSalary)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EmpMartialStatus)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EmpHomeAddress)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EmpContactNum)
+            </th>
+          
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.EmpId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EmpFirstName)
+            </td>
+             <td>
+                @Html.DisplayFor(modelItem => item.EmpLastName)
+            </td>
+             <td>
+                @Html.DisplayFor(modelItem => item.EmpGradeCode)
+            </td>
+             <td>
+                @Html.DisplayFor(modelItem => item.EmpDateOfBirth)
+            </td>
+             <td>
+                @Html.DisplayFor(modelItem => item.EmpDateOfJoining)
+            </td>
+             <td>
+                @Html.DisplayFor(modelItem => item.EmpGender)
+            </td>
+             <td>
+                @Html.DisplayFor(modelItem => item.EmpDesignation)
+            </td>
+             <td>
+                @Html.DisplayFor(modelItem => item.EmpBasicSalary)
+            </td>
+             <td>
+                @Html.DisplayFor(modelItem => item.EmpMartialStatus)
+            </td>
+             <td>
+                @Html.DisplayFor(modelItem => item.EmpHomeAddress)
+            </td>
+             <td>
+                @Html.DisplayFor(modelItem => item.EmpContactNum)
+            </td>
+           
+            <td>
+               <a asp-action="Edit" asp-route-id="@item.EmpId">Edit</a> |
+               
+            </td>
+
+            <div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+        </tr>
+}
+    </tbody>
+</table>

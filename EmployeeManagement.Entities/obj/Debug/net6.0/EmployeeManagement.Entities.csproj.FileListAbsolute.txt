@@ -1,0 +1,28 @@
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.Entities\bin\Debug\net6.0\EmployeeManagement.Entities.deps.json
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.Entities\bin\Debug\net6.0\EmployeeManagement.Entities.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.Entities\bin\Debug\net6.0\EmployeeManagement.Entities.pdb
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.Entities\obj\Debug\net6.0\EmployeeManagement.Entities.csproj.AssemblyReference.cache
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.Entities\obj\Debug\net6.0\EmployeeManagement.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.Entities\obj\Debug\net6.0\EmployeeManagement.Entities.AssemblyInfoInputs.cache
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.Entities\obj\Debug\net6.0\EmployeeManagement.Entities.AssemblyInfo.cs
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.Entities\obj\Debug\net6.0\EmployeeManagement.Entities.csproj.CoreCompileInputs.cache
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.Entities\obj\Debug\net6.0\EmployeeManagement.Entities.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.Entities\obj\Debug\net6.0\refint\EmployeeManagement.Entities.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.Entities\obj\Debug\net6.0\EmployeeManagement.Entities.pdb
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.Entities\obj\Debug\net6.0\ref\EmployeeManagement.Entities.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.Entities\bin\Debug\net6.0\EmployeeManagement.Entities.runtimeconfig.json
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.Entities\obj\Debug\net6.0\EmployeeManagement.Entities.genruntimeconfig.cache
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.Entities\bin\Debug\net6.0\EmployeeManagement.Entities.deps.json
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.Entities\bin\Debug\net6.0\EmployeeManagement.Entities.runtimeconfig.json
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.Entities\bin\Debug\net6.0\EmployeeManagement.Entities.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.Entities\bin\Debug\net6.0\EmployeeManagement.Entities.pdb
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.Entities\obj\Debug\net6.0\EmployeeManagement.Entities.csproj.AssemblyReference.cache
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.Entities\obj\Debug\net6.0\EmployeeManagement.Entities.GeneratedMSBuildEditorConfig.editorconfig
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.Entities\obj\Debug\net6.0\EmployeeManagement.Entities.AssemblyInfoInputs.cache
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.Entities\obj\Debug\net6.0\EmployeeManagement.Entities.AssemblyInfo.cs
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.Entities\obj\Debug\net6.0\EmployeeManagement.Entities.csproj.CoreCompileInputs.cache
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.Entities\obj\Debug\net6.0\EmployeeManagement.Entities.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.Entities\obj\Debug\net6.0\refint\EmployeeManagement.Entities.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.Entities\obj\Debug\net6.0\EmployeeManagement.Entities.pdb
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.Entities\obj\Debug\net6.0\EmployeeManagement.Entities.genruntimeconfig.cache
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.Entities\obj\Debug\net6.0\ref\EmployeeManagement.Entities.dll

@@ -1,0 +1,152 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = EmployeeManagement.MVC
+build_property.RootNamespace = EmployeeManagement.MVC
+build_property.ProjectDir = F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.MVC\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.MVC
+build_property._RazorSourceGeneratorDebug = 
+
+[F:/Sakib training/04-08-22/EmployeeManagement (3)/EmployeeManagement/EmployeeManagement.MVC/Views/AuthenticateMVC/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRlTVZDXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Sakib training/04-08-22/EmployeeManagement (3)/EmployeeManagement/EmployeeManagement.MVC/Views/AuthenticateMVC/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRlTVZDXExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Sakib training/04-08-22/EmployeeManagement (3)/EmployeeManagement/EmployeeManagement.MVC/Views/AuthenticateMVC/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRlTVZDXFJlZ2lzdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Sakib training/04-08-22/EmployeeManagement (3)/EmployeeManagement/EmployeeManagement.MVC/Views/DepartmentMVC/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudE1WQ1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Sakib training/04-08-22/EmployeeManagement (3)/EmployeeManagement/EmployeeManagement.MVC/Views/DepartmentMVC/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudE1WQ1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Sakib training/04-08-22/EmployeeManagement (3)/EmployeeManagement/EmployeeManagement.MVC/Views/DepartmentMVC/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudE1WQ1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Sakib training/04-08-22/EmployeeManagement (3)/EmployeeManagement/EmployeeManagement.MVC/Views/DepartmentMVC/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudE1WQ1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Sakib training/04-08-22/EmployeeManagement (3)/EmployeeManagement/EmployeeManagement.MVC/Views/DepartmentMVC/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudE1WQ1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Sakib training/04-08-22/EmployeeManagement (3)/EmployeeManagement/EmployeeManagement.MVC/Views/EmpDepartmentMVC/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wRGVwYXJ0bWVudE1WQ1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Sakib training/04-08-22/EmployeeManagement (3)/EmployeeManagement/EmployeeManagement.MVC/Views/EmpDepartmentMVC/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wRGVwYXJ0bWVudE1WQ1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Sakib training/04-08-22/EmployeeManagement (3)/EmployeeManagement/EmployeeManagement.MVC/Views/EmpEmployeeMVC/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wRW1wbG95ZWVNVkNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Sakib training/04-08-22/EmployeeManagement (3)/EmployeeManagement/EmployeeManagement.MVC/Views/EmpEmployeeMVC/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wRW1wbG95ZWVNVkNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Sakib training/04-08-22/EmployeeManagement (3)/EmployeeManagement/EmployeeManagement.MVC/Views/EmpGradeMasterMVC/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wR3JhZGVNYXN0ZXJNVkNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Sakib training/04-08-22/EmployeeManagement (3)/EmployeeManagement/EmployeeManagement.MVC/Views/EmpGradeMasterMVC/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wR3JhZGVNYXN0ZXJNVkNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Sakib training/04-08-22/EmployeeManagement (3)/EmployeeManagement/EmployeeManagement.MVC/Views/EmployeeMVC/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVNVkNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Sakib training/04-08-22/EmployeeManagement (3)/EmployeeManagement/EmployeeManagement.MVC/Views/EmployeeMVC/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVNVkNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Sakib training/04-08-22/EmployeeManagement (3)/EmployeeManagement/EmployeeManagement.MVC/Views/EmployeeMVC/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVNVkNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Sakib training/04-08-22/EmployeeManagement (3)/EmployeeManagement/EmployeeManagement.MVC/Views/EmployeeMVC/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVNVkNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Sakib training/04-08-22/EmployeeManagement (3)/EmployeeManagement/EmployeeManagement.MVC/Views/EmployeeMVC/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVNVkNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Sakib training/04-08-22/EmployeeManagement (3)/EmployeeManagement/EmployeeManagement.MVC/Views/GradeMasterMVC/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JhZGVNYXN0ZXJNVkNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Sakib training/04-08-22/EmployeeManagement (3)/EmployeeManagement/EmployeeManagement.MVC/Views/GradeMasterMVC/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JhZGVNYXN0ZXJNVkNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Sakib training/04-08-22/EmployeeManagement (3)/EmployeeManagement/EmployeeManagement.MVC/Views/GradeMasterMVC/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JhZGVNYXN0ZXJNVkNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Sakib training/04-08-22/EmployeeManagement (3)/EmployeeManagement/EmployeeManagement.MVC/Views/GradeMasterMVC/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JhZGVNYXN0ZXJNVkNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Sakib training/04-08-22/EmployeeManagement (3)/EmployeeManagement/EmployeeManagement.MVC/Views/GradeMasterMVC/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JhZGVNYXN0ZXJNVkNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Sakib training/04-08-22/EmployeeManagement (3)/EmployeeManagement/EmployeeManagement.MVC/Views/Home/HomeAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIb21lQWRtaW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Sakib training/04-08-22/EmployeeManagement (3)/EmployeeManagement/EmployeeManagement.MVC/Views/Home/HomeCommon.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIb21lQ29tbW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Sakib training/04-08-22/EmployeeManagement (3)/EmployeeManagement/EmployeeManagement.MVC/Views/Home/HomeEmployee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIb21lRW1wbG95ZWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Sakib training/04-08-22/EmployeeManagement (3)/EmployeeManagement/EmployeeManagement.MVC/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Sakib training/04-08-22/EmployeeManagement (3)/EmployeeManagement/EmployeeManagement.MVC/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Sakib training/04-08-22/EmployeeManagement (3)/EmployeeManagement/EmployeeManagement.MVC/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Sakib training/04-08-22/EmployeeManagement (3)/EmployeeManagement/EmployeeManagement.MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Sakib training/04-08-22/EmployeeManagement (3)/EmployeeManagement/EmployeeManagement.MVC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Sakib training/04-08-22/EmployeeManagement (3)/EmployeeManagement/EmployeeManagement.MVC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Sakib training/04-08-22/EmployeeManagement (3)/EmployeeManagement/EmployeeManagement.MVC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-lw8y0iujo2

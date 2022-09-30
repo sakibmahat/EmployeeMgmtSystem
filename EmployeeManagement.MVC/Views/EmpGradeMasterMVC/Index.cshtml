@@ -1,0 +1,60 @@
+﻿@model IEnumerable< EmployeeManagement.Entities.GradeMaster>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>GradeMaster</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+ <button type="button" class="btn btn-info">@Html.ActionLink("home","HomeEmployee","Home","AuthenticateMVC")</button>
+        <button type="button" class="btn btn-info">@Html.ActionLink("Logout","Login","AuthenticateMVC")</button>
+<table class="table table-dark table-bordered">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.GradeCode)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Designation)
+            </th>
+             <th>
+                @Html.DisplayNameFor(model => model.MinSalary)
+            </th>
+             <th>
+                @Html.DisplayNameFor(model => model.MaxSalary)
+            </th>
+          
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.GradeCode)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Designation)
+            </td>
+             <td>
+                @Html.DisplayFor(modelItem => item.MinSalary)
+            </td>
+             <td>
+                @Html.DisplayFor(modelItem => item.MaxSalary)
+            </td>
+           
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.GradeCode">Edit</a> |
+               
+            </td>
+            <div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+        </tr>
+}
+    </tbody>
+</table>

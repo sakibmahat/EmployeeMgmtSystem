@@ -1,0 +1,34 @@
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.DAL\bin\Debug\net6.0\EmployeeManagement.DAL.deps.json
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.DAL\bin\Debug\net6.0\EmployeeManagement.DAL.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.DAL\bin\Debug\net6.0\EmployeeManagement.DAL.pdb
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.DAL\obj\Debug\net6.0\EmployeeManagement.DAL.csproj.AssemblyReference.cache
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.DAL\obj\Debug\net6.0\EmployeeManagement.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.DAL\obj\Debug\net6.0\EmployeeManagement.DAL.AssemblyInfoInputs.cache
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.DAL\obj\Debug\net6.0\EmployeeManagement.DAL.AssemblyInfo.cs
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.DAL\obj\Debug\net6.0\EmployeeManagement.DAL.csproj.CoreCompileInputs.cache
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.DAL\obj\Debug\net6.0\EmployeeManagement.DAL.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.DAL\obj\Debug\net6.0\refint\EmployeeManagement.DAL.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.DAL\obj\Debug\net6.0\EmployeeManagement.DAL.pdb
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.DAL\obj\Debug\net6.0\ref\EmployeeManagement.DAL.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.DAL\bin\Debug\net6.0\EmployeeManagement.EFCore.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.DAL\bin\Debug\net6.0\EmployeeManagement.Entities.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.DAL\bin\Debug\net6.0\EmployeeManagement.EFCore.pdb
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.DAL\bin\Debug\net6.0\EmployeeManagement.Entities.pdb
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.DAL\obj\Debug\net6.0\EmployeeManagement.DAL.csproj.CopyComplete
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.DAL\bin\Debug\net6.0\EmployeeManagement.DAL.deps.json
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.DAL\bin\Debug\net6.0\EmployeeManagement.DAL.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.DAL\bin\Debug\net6.0\EmployeeManagement.DAL.pdb
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.DAL\bin\Debug\net6.0\EmployeeManagement.EFCore.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.DAL\bin\Debug\net6.0\EmployeeManagement.Entities.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.DAL\bin\Debug\net6.0\EmployeeManagement.EFCore.pdb
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.DAL\bin\Debug\net6.0\EmployeeManagement.Entities.pdb
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.DAL\obj\Debug\net6.0\EmployeeManagement.DAL.csproj.AssemblyReference.cache
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.DAL\obj\Debug\net6.0\EmployeeManagement.DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.DAL\obj\Debug\net6.0\EmployeeManagement.DAL.AssemblyInfoInputs.cache
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.DAL\obj\Debug\net6.0\EmployeeManagement.DAL.AssemblyInfo.cs
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.DAL\obj\Debug\net6.0\EmployeeManagement.DAL.csproj.CoreCompileInputs.cache
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.DAL\obj\Debug\net6.0\EmployeeManagement.DAL.csproj.CopyComplete
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.DAL\obj\Debug\net6.0\EmployeeManagement.DAL.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.DAL\obj\Debug\net6.0\refint\EmployeeManagement.DAL.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.DAL\obj\Debug\net6.0\EmployeeManagement.DAL.pdb
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.DAL\obj\Debug\net6.0\ref\EmployeeManagement.DAL.dll

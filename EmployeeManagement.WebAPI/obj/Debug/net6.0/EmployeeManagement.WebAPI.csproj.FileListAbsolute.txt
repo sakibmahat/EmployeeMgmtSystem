@@ -1,0 +1,166 @@
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\EmployeeManagement.WebAPI.exe
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\EmployeeManagement.WebAPI.deps.json
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\EmployeeManagement.WebAPI.runtimeconfig.json
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\EmployeeManagement.WebAPI.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\EmployeeManagement.WebAPI.pdb
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\Azure.Security.KeyVault.Certificates.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\Azure.Security.KeyVault.Secrets.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\Microsoft.Identity.Web.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\obj\Debug\net6.0\EmployeeManagement.WebAPI.csproj.AssemblyReference.cache
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\obj\Debug\net6.0\EmployeeManagement.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\obj\Debug\net6.0\EmployeeManagement.WebAPI.AssemblyInfoInputs.cache
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\obj\Debug\net6.0\EmployeeManagement.WebAPI.AssemblyInfo.cs
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\obj\Debug\net6.0\EmployeeManagement.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\obj\Debug\net6.0\EmployeeManagement.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\obj\Debug\net6.0\EmployeeManagement.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\obj\Debug\net6.0\scopedcss\bundle\EmployeeManagement.WebAPI.styles.css
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\obj\Debug\net6.0\EmployeeManagement.WebAPI.csproj.CopyComplete
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\obj\Debug\net6.0\EmployeeManagement.WebAPI.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\obj\Debug\net6.0\refint\EmployeeManagement.WebAPI.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\obj\Debug\net6.0\EmployeeManagement.WebAPI.pdb
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\obj\Debug\net6.0\EmployeeManagement.WebAPI.genruntimeconfig.cache
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\obj\Debug\net6.0\ref\EmployeeManagement.WebAPI.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\EmployeeManagement.BL.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\EmployeeManagement.DAL.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\EmployeeManagement.EFCore.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\EmployeeManagement.Entities.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\EmployeeManagement.BL.pdb
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\EmployeeManagement.Entities.pdb
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\EmployeeManagement.DAL.pdb
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\EmployeeManagement.EFCore.pdb
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\appsettings.Development.json
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\appsettings.json
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\EmployeeManagement.WebAPI.exe
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\EmployeeManagement.WebAPI.deps.json
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\EmployeeManagement.WebAPI.runtimeconfig.json
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\EmployeeManagement.WebAPI.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\EmployeeManagement.WebAPI.pdb
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\Azure.Core.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\Azure.Identity.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\Azure.Security.KeyVault.Certificates.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\Azure.Security.KeyVault.Secrets.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\Humanizer.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\Microsoft.Identity.Web.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\EmployeeManagement.BL.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\EmployeeManagement.DAL.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\EmployeeManagement.EFCore.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\EmployeeManagement.Entities.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\EmployeeManagement.BL.pdb
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\EmployeeManagement.Entities.pdb
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\EmployeeManagement.DAL.pdb
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\bin\Debug\net6.0\EmployeeManagement.EFCore.pdb
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\obj\Debug\net6.0\EmployeeManagement.WebAPI.csproj.AssemblyReference.cache
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\obj\Debug\net6.0\EmployeeManagement.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\obj\Debug\net6.0\EmployeeManagement.WebAPI.AssemblyInfoInputs.cache
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\obj\Debug\net6.0\EmployeeManagement.WebAPI.AssemblyInfo.cs
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\obj\Debug\net6.0\EmployeeManagement.WebAPI.csproj.CoreCompileInputs.cache
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\obj\Debug\net6.0\EmployeeManagement.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\obj\Debug\net6.0\EmployeeManagement.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\obj\Debug\net6.0\scopedcss\bundle\EmployeeManagement.WebAPI.styles.css
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\obj\Debug\net6.0\EmployeeManagement.WebAPI.csproj.CopyComplete
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\obj\Debug\net6.0\EmployeeManagement.WebAPI.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\obj\Debug\net6.0\refint\EmployeeManagement.WebAPI.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\obj\Debug\net6.0\EmployeeManagement.WebAPI.pdb
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\obj\Debug\net6.0\EmployeeManagement.WebAPI.genruntimeconfig.cache
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.WebAPI\obj\Debug\net6.0\ref\EmployeeManagement.WebAPI.dll

@@ -1,0 +1,34 @@
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.EFCore\bin\Debug\net6.0\EmployeeManagement.EFCore.deps.json
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.EFCore\bin\Debug\net6.0\EmployeeManagement.EFCore.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.EFCore\bin\Debug\net6.0\EmployeeManagement.EFCore.pdb
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.EFCore\obj\Debug\net6.0\EmployeeManagement.EFCore.csproj.AssemblyReference.cache
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.EFCore\obj\Debug\net6.0\EmployeeManagement.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.EFCore\obj\Debug\net6.0\EmployeeManagement.EFCore.AssemblyInfoInputs.cache
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.EFCore\obj\Debug\net6.0\EmployeeManagement.EFCore.AssemblyInfo.cs
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.EFCore\obj\Debug\net6.0\EmployeeManagement.EFCore.csproj.CoreCompileInputs.cache
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.EFCore\obj\Debug\net6.0\EmployeeManagement.EFCore.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.EFCore\obj\Debug\net6.0\refint\EmployeeManagement.EFCore.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.EFCore\obj\Debug\net6.0\EmployeeManagement.EFCore.pdb
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.EFCore\obj\Debug\net6.0\ref\EmployeeManagement.EFCore.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.EFCore\bin\Debug\net6.0\EmployeeManagement.Entities.dll
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.EFCore\bin\Debug\net6.0\EmployeeManagement.Entities.pdb
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.EFCore\obj\Debug\net6.0\EmployeeManagement.EFCore.csproj.CopyComplete
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.EFCore\bin\Debug\net6.0\EmployeeManagement.EFCore.runtimeconfig.json
+C:\Users\leeshma\Desktop\sprint2\EmployeeManagement\EmployeeManagement.EFCore\obj\Debug\net6.0\EmployeeManagement.EFCore.genruntimeconfig.cache
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.EFCore\bin\Debug\net6.0\EmployeeManagement.EFCore.deps.json
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.EFCore\bin\Debug\net6.0\EmployeeManagement.EFCore.runtimeconfig.json
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.EFCore\bin\Debug\net6.0\EmployeeManagement.EFCore.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.EFCore\bin\Debug\net6.0\EmployeeManagement.EFCore.pdb
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.EFCore\bin\Debug\net6.0\EmployeeManagement.Entities.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.EFCore\bin\Debug\net6.0\EmployeeManagement.Entities.pdb
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.EFCore\obj\Debug\net6.0\EmployeeManagement.EFCore.csproj.AssemblyReference.cache
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.EFCore\obj\Debug\net6.0\EmployeeManagement.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.EFCore\obj\Debug\net6.0\EmployeeManagement.EFCore.AssemblyInfoInputs.cache
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.EFCore\obj\Debug\net6.0\EmployeeManagement.EFCore.AssemblyInfo.cs
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.EFCore\obj\Debug\net6.0\EmployeeManagement.EFCore.csproj.CoreCompileInputs.cache
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.EFCore\obj\Debug\net6.0\EmployeeManagement.EFCore.csproj.CopyComplete
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.EFCore\obj\Debug\net6.0\EmployeeManagement.EFCore.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.EFCore\obj\Debug\net6.0\refint\EmployeeManagement.EFCore.dll
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.EFCore\obj\Debug\net6.0\EmployeeManagement.EFCore.pdb
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.EFCore\obj\Debug\net6.0\EmployeeManagement.EFCore.genruntimeconfig.cache
+F:\Sakib training\04-08-22\EmployeeManagement (3)\EmployeeManagement\EmployeeManagement.EFCore\obj\Debug\net6.0\ref\EmployeeManagement.EFCore.dll
